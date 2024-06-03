@@ -4,3 +4,5 @@ echo "Happy weekend"
 echo "Hello batch-24, We are learning git"
 echo "we will complete our practicals on daily basis"
 echo "Happy me"
+echo "happy bday"
+
