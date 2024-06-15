@@ -7,3 +7,5 @@ echo "cmdla list: $@"
 echo "no of cmdl: $#"
 echo "I am learning devops"
 echo "abc"
+echo "i am learning GIT"
+
